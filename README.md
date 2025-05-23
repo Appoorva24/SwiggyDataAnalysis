@@ -1,28 +1,42 @@
-# Swiggy Data Analysis Project
-This project involves data preprocessing and visualization on a Swiggy dataset using Python (in Google Colab) and Power BI.
+# 🍽️ Swiggy Data Analysis Project
+
+Explore the dynamics of food delivery through a comprehensive analysis of Swiggy data! This project blends the power of Python (via Google Colab) for data preprocessing with the visual impact of a fully interactive Power BI dashboard.
+
 
 ## 🧪 Technologies Used
-- Python
-- Google Colab
-- Pandas, NumPy, Matplotlib
-- Power BI
 
-## 📊 Work Done
-- Data Cleaning and Handling Missing Values
-- Feature Selection and Encoding
-- Data Transformation
-- Summary Statistics and Initial Visualizations
+* **Python** (Google Colab)
+* **Pandas**, **NumPy**, **Matplotlib**
+* **Power BI**
 
-## 📂 Files
-- `notebook/swiggy_analysis.ipynb` – Code for data cleaning and preprocessing
-- `data/swiggy_cleaned.csv` – Cleaned dataset for Power BI
-- `images/` – Visual charts (if any)
+## 📊 Work Highlights
 
-## ▶️ How to Run
-1. Open the notebook in Google Colab
-2. Run all cells
-3. Use the exported `swiggy_cleaned.csv` in Power BI to build visual dashboards
+* Cleaned raw Swiggy data and handled missing values
+* Performed feature selection, encoding, and transformation
+* Conducted exploratory data analysis (EDA) with Python visualizations
+* **Created an interactive dashboard** in Power BI for clear and engaging data insights
 
-## 📌 Author
-Appoorva Suresh Khajuria
+## 📂 Project Files
+
+* `notebook/swiggy_analysis.ipynb` – Data preprocessing and analysis code
+* `data/swiggy_cleaned.csv` – Cleaned dataset ready for visualization
+* `dashboard/swiggy_dashboard.pbix` – 🚀 Power BI dashboard (open directly in Power BI Desktop)
+
+## ▶️ How to Run This Project
+
+
+**Option 1: View the Ready Dashboard**
+1. Open `swiggy_dashboard.pbix` using **Power BI Desktop**
+2. Explore the full dashboard with charts, filters, and key insights
+
+**Option 2: Recreate the Dashboard from Scratch**
+1. Launch the notebook in **Google Colab**
+2. Run all cells to generate `swiggy_cleaned.csv`
+3. Import `swiggy_cleaned.csv` into **Power BI**
+4. Build your own visualizations or customize from scratch
+
+## 👩‍💻 Author
+
+**Appoorva Suresh Khajuria**
+
 
