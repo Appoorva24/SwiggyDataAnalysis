@@ -9,6 +9,7 @@ Explore the dynamics of food delivery through a comprehensive analysis of Swiggy
 * **Pandas**, **NumPy**, **Matplotlib**
 * **Power BI**
 
+
 ## 📊 Work Highlights
 
 * Cleaned raw Swiggy data and handled missing values
@@ -16,11 +17,13 @@ Explore the dynamics of food delivery through a comprehensive analysis of Swiggy
 * Conducted exploratory data analysis (EDA) with Python visualizations
 * **Created an interactive dashboard** in Power BI for clear and engaging data insights
 
+
 ## 📂 Project Files
 
 * `notebook/swiggy_analysis.ipynb` – Data preprocessing and analysis code
 * `data/swiggy_cleaned.csv` – Cleaned dataset ready for visualization
 * `dashboard/swiggy_dashboard.pbix` – 🚀 Power BI dashboard (open directly in Power BI Desktop)
+
 
 ## ▶️ How to Run This Project
 
@@ -34,6 +37,7 @@ Explore the dynamics of food delivery through a comprehensive analysis of Swiggy
 2. Run all cells to generate `swiggy_cleaned.csv`
 3. Import `swiggy_cleaned.csv` into **Power BI**
 4. Build your own visualizations or customize from scratch
+
 
 ## 👩‍💻 Author
 
