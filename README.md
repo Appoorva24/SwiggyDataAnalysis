@@ -44,6 +44,13 @@ Explore the dynamics of food delivery through a comprehensive analysis of Swiggy
 1. Open `Swiggy.pbix` using **Power BI Desktop**
 2. Navigate through the **3 pages** to explore charts, filters, and insights
 
+3. ## 🔗 Dashboard Access
+
+Since the Power BI file exceeds GitHub's 25MB upload limit, you can view or download the `.pbix` file here:
+
+📎 [Download Swiggy Dashboard (.pbix)](https://galgotiasuniversityeduin0-my.sharepoint.com/:f:/g/personal/appoorva_23scse1180326_galgotiasuniversity_ac_in/ElgJV4tL_c1DruyjCsHi6aoBqfpZQqlC635imcR3662bJg?e=47EjA4)
+
+
 ### Option 2: Recreate the Dashboard from Scratch
 
 1. Launch the notebook in **Google Colab**
